@@ -32,22 +32,22 @@
 
 ### 🔥 Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunaljit3006&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunaljit3006&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
 ### 🧠 Language Usage (Pie-style)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaljit3006&layout=compact&theme=tokyonight" width="50%"/>
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunaljit3006&theme=tokyo-night" />
 </p>
 
 ---
@@ -56,5 +56,30 @@
 - 📷 Photography (Portrait, Nature, Cinematic)
 - 🎬 Cinematic Videography
 - ✂️ Video Editing (DaVinci Resolve, CapCut, Premiere Pro)
-- 🎨
+- 🎨 Color Grading
 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunaljit-kashyap-8bb212287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:kkunaljit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ✨ Quote
+<p align="center">
+  <i>"When WiFi is off, life turns on."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kunaljit3006.kunaljit3006"/>
+</p>
